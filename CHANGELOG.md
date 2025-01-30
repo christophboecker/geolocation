@@ -1,5 +1,10 @@
 # Changelog
 
+## xx-xx-2025 2.5.0
+
+- Neu: YForm-Value "geolocation_picker" (in Arbeit)
+- Update: Vendor mjaschen/phpgeo (geplant)
+
 ## 06-12-2024 2.4.0
 
 - kleinere interne Modifikationen
